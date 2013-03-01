@@ -16,7 +16,7 @@ public class HiWorld {
     public static void main(String[] args) {
    //  System.out.println(HelloString("d"));  
      Static ourNewClass = new Static();
-        String output = ourNewClass.HelloString("Sarah og Elvis");
+        String output = ourNewClass.HelloString("Sarah og Elvis!!!");
         System.out.println(output);
       
     }
